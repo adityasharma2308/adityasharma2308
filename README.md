@@ -1,4 +1,6 @@
-<h3 align="center">My name is Aditya Sharma, a graduate student at Bharati Vidyapeeth College Of Engineering 🇮🇳 pursuing a B.Tech. in Electronics And Telecommunication, 💻 My interests lie within the field of AI, Machine Learning,App Development</h3>
+# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+
+<h3>My name is Aditya Sharma, a graduate student at Bharati Vidyapeeth College Of Engineering 🇮🇳 pursuing a B.Tech. in Electronics And Telecommunication, 💻 My interests lie within the field of AI, Machine Learning,App Development</h3>
 
 - 🔭 I’m currently working on **Intern At CHiPS Raipur**
 
